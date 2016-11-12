@@ -1,4 +1,5 @@
 # Cards
+Elixir Repo, project from Udemy Tutorial.
 
 **TODO: Add description**
 
