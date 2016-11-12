@@ -5,7 +5,7 @@ defmodule Cards do
 		suits = ["Spades", "Clubs", "Hearts", "Diamonds"]
 
 		for suit <- suits, value <- values do
-			"#{value} of #{suit}"
+			"#{value} of #{suit} card"
 		end
 	end
 
